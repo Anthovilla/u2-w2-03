@@ -1,0 +1,10 @@
+.containerNav {
+  background-color: gainsboro;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.containerNav a {
+  color: aqua;
+}/*# sourceMappingURL=style.css.map */
